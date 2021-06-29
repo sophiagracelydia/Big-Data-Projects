@@ -104,7 +104,7 @@ select avg(mlikes),avg(wlikes) from facebook_data where age>=13 AND age<=25;
 
 ### 7. Do adult members use mobile phones or computer for fb browsing?
 ```
-select avg(mlikes),avg(wlikes) from facebook_data where age>=35;
+select avg(mlikes),avg(wlikes) from facebook_data where age>=35; 
 ```
 ![image](https://user-images.githubusercontent.com/52828894/123735465-e4435000-d8bc-11eb-8a37-f438a6eb4ead.png)
 
